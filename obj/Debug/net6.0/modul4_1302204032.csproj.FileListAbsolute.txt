@@ -1,0 +1,15 @@
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\bin\Debug\net6.0\modul4_1302204032.exe
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\bin\Debug\net6.0\modul4_1302204032.deps.json
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\bin\Debug\net6.0\modul4_1302204032.runtimeconfig.json
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\bin\Debug\net6.0\modul4_1302204032.dll
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\bin\Debug\net6.0\modul4_1302204032.pdb
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.csproj.AssemblyReference.cache
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.AssemblyInfoInputs.cache
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.AssemblyInfo.cs
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.csproj.CoreCompileInputs.cache
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.dll
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\refint\modul4_1302204032.dll
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.pdb
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\modul4_1302204032.genruntimeconfig.cache
+C:\Users\alwin\KPL\Praktikum\mod4\modul4_1302204032\modul4_1302204032\obj\Debug\net6.0\ref\modul4_1302204032.dll
